@@ -1,0 +1,12 @@
+Ibank
+Pro is that it ensures a rather fair trading environment and the con is that because of its transparency, any bug will be detected by both sides and require more time to fix it
+although transparency is a cornerstone of decentralized platforms and distributed trust, For example, an online shopping platform. Its transparent sharing of data can make transactions more efficient, but too much transparency can lead to the disclosure of users' private information. extreme transparency may jeopardize privacy.
+Pro: safe and easy to trace. Con: costly
+pros: autonomy ( the money and assets are yours), Accessible ( digital industry), Transparency ( the data is aviable for all public's) Cons: It is very risky because you have total control over the assets, furthermore smart contracts are more complex than traditional ones which leaves the door open for scams and attacks. Lastly, the laws are not very certain.
+it promotes financial inclusion as barriers to accessing decentralized finance products are low. and one of the cons is that many DeFi products are only partially decentralized as the companies creating them are centralised and they create rigid rules around the product.
+I just know that decentralized finance is related to decentralized blockchain that can make checking transactions easier (transparancy), and it will record all of our loans, data etc (but i'm not sure if this is correct or not)
+Yes, please elaborate using a business case
+The drawback is the lack of unified management .Decentralization has three advantages :1. Fault tolerance. A decentralized system is less likely to stop working because of a local accident or failure. It relies on many components that work independently and is therefore more fault tolerant. 2. Resist aggression. The cost of attacking a decentralized system is higher than that of a centralized system. 3. Anti-collusion. The participants in the decentralized system, it is very difficult to collude with each other, each node is parallel and equal
+Advanatges: Every manager can make their own decisions and it makes it more independant. Disadvantages: this can increase costs in the production process..
+Yes, please elaborate using a business case
+Yes, please elaborate using a business case

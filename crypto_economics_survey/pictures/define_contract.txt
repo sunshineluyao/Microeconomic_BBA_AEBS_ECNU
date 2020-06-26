@@ -1,0 +1,22 @@
+A smart contract is based on computer programs, so it saves the time of doing some specific behaviors
+they differ in one crucial aspect ¡ª trust-based performance.
+A contract based on the internet technology, making transactions easy to trace and inrecoverable
+Smart contracts are self-executing contracts, but traditional contracts are not.
+Smart contracts are usually permanent or for very long term contracts and is usually not possible to be removed or altered by any party for safety purposes like an illegal scheme.
+the transaction can be done by 2 people without the third party (ex: bank)
+hat is being received and what is being given. While traditional contracts are law abiding legal, paper, agreements between two parties.
+Maybe smart contract is using more technology, different kind of systems and networks(?) (I'm not sure)
+Smart contracts are, in essence, computer programs that automate the enforcement of terms. Traditional Contracts, on the other hand, are sets of agreed-upon terms which are enforceable by law and are described in a natural, human language.
+Smart contracts have the specific, measurable, attainable, relevant and time-bound characteristics while the traditional one doesn¡¯t have them.
+Smart contracts are, in essence, computer programs that automate the enforcement of terms. Traditional Contracts, on the other hand, are sets of agreed-upon terms which are enforceable by law and are described in a natural, human language
+Smart contracts are simple programmes that are stored on the blockchain and can be used to automatically exchange coins based on certain conditions
+It is simply programms
+1. a smart contract can make decisions according to triggering conditions 2.the punishment is clear and is in progress ahead of the time 3. the cost is lower than the traditional contract 4. digital assets are held as collateral 5. the  range of application is different
+Smart contracts are computer protocols that facilitate, verify, or enforce the negotiation or performance of a contract, or that obviate the need for a contractual clause.
+Traditional Contracts, on the other hand, are sets of agreed-upon terms which are enforceable by law and are described in a natural, human language. ... A Smart Contract works well when terms and conditions are straightforward, objective, and quantifiable.
+Smart contracts can be promoted and put into use in a global scope, but traditional contracts have specific scope, breadth and smart contracts are very different because of different regional culture, customs, specific laws and regulations.
+Yes, please explain
+-The time needed to formulate the contractThe time needed for preparing, drafting, and formulating a traditional contract ranges from one to several days .For smart contracts, this period can be reduced to a few minutes 2-The execution and remittance of the contract. In conventional contracts, the parties are obliged to pay the amounts due in time - manuallyIn smart contracts, the remittance is automated and is executed automatically 3-The final cost of the processmart contracts are not only faster and more practical, but also a significantly cheaper option for negotiating parties.4-The data security and protection The cryptographic protection of blockchain technology allows an unprecedented level of confidentiality.5-The need for physical presence  A smart contract is concluded by putting an electronic signature, which eliminates the need for the physical presence of the parties .6-The archivingWith smart contracts, it happens automatically, securely, without wasting time or natural resources.
+Smart contracts are basically a way of agreement between two parties that involved computer code to justify what is being received and what is being given. While traditional contracts are law abiding legal, paper, agreements between two parties
+Smart contracts are, in computer programs. on the other hand, Traditional Contracts are sets of agreed-upon terms which are enforceable by law and are described in a natural, human language.
+Smart contracts are, in essence, computer programs that automate the enforcement of terms. Traditional Contracts, on the other hand, are sets of agreed-upon terms which are enforceable by law and are described in a natural, human language.

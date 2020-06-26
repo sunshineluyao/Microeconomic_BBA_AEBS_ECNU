@@ -1,0 +1,9 @@
+To ensure that the coins can be issued
+Accelerates the repayment and buff the speed of losses
+To make sure one doesn¡¯t cheat
+Yes, please explain
+provide people with a safe, stable place to store assets
+The over-collateralization uses the extra spread to pay the principal of the bond, which make the stability of stable coins.
+A common form of credit enhancement. The credit enhancement structure of the excess collateral takes advantage of the extra spread that is the amount after all fees and the coupon cost of the bond are paid to pay the bond principal. This payment structure is also known as a turbine structure because it speeds up the repayment of the bond's principal and thus creates a cushion of excess collateral against losses.
+It give to the coin the guarantee to remain stable
+If the stable currency is mortgaged with ether currency, when the ether currency falls seriously, the stable currency will automatically clear back to the ether currency. At that time, you will face what we usually call currency risk, and etheric currency may continue to decline. The only way to prevent this is to over mortgage, which makes cryptocurrency currencies more capital intensive than fiat currencies.

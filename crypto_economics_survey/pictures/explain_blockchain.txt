@@ -1,0 +1,20 @@
+Can authorize third parties to query identity attributes
+Because the data in a blockchain should be kept open and transparent, so it requires a rather fair position for everyone
+A decentralized network is more reliable than a centralized one because there is no central server and hackers are prevented from attacking it. Decentralized is more democratic than centralized, with no central authority and user control.
+Equal and safe
+The information is loaded to every user
+the Blockchain, is what allows for this decentralization, as it offers every single user an opportunity to become one of the network's many payment processors.
+to prevent it from getting hacked as it is transparent
+it offers every single user an opportunity to become one of the network's many payment processors
+Maybe it is used for deliver any systems or networks to other parties (maybe lower parties)
+Each node of blockchain achieves information self-verification, transmission and management through distributed accounting and storage.
+Blockchains secure themselves by being distributed. Instead of using a central antetype to manage the chain, blockchains use P2P network and everyone is allowed to join. When someone joins, he can get a full copy of the blockchain.
+It is more trasnsparent and safe.
+logically, the blockchain is united in the internet so it's decentralized.  According to it's framework, the blockchain is based on the peer-to-peer network, so it's decentralized
+In the decentralized mode, the whole network has no centralized hardware or management organization, and the rights and obligations between any nodes are equal.
+the Blockchain, is what allows for this decentralization, as it offers every single user an opportunity to become one of the network's many payment processors
+Yes, please explain
+Yes, please explain
+Decentralization is the process of dispersing functions and power away from a central location or authority.
+Because it is a shared thing for all.
+blockchain is actually decentralized depends on what is governed and how this governance is enacted.

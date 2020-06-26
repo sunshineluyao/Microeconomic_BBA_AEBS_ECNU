@@ -1,0 +1,18 @@
+Because it's based on computer science and can't be changed casually by either part
+Because it doesn't exist as a physical entity as a traditional contract. It's based on digitization and blockchain.
+Lower threshold and decrease the level of uncertainty
+Every user involved in the system can see the details
+yes because it's electronically published therefore it's much easier for any party to access as long as they have connection to the parties involved in the contract signing.
+to gain trust
+Unlike traditional contracts, smart contracts don't compromise credibility and authenticity, since it is visible for all parties in the network.
+Smart contracts remove the need for intermediaries and allow for transparent, direct relationships with customers.
+They can state what the both sides should do, provide a way to evaluate, within our scope, makes sense within your job function and state when you should get it down. So they are transparent.
+as it requires terms and conditions from the beginning
+Because everyone who joins the blockchain could detect the information and the smart contracts
+Because all the traders have their own account books. If something wrong happens, other account books can prove the trade.
+the code of the contract is transparent
+Thanks to blockchain technology, all parties involved in the smart contract can be assured that the contract is executed in a 100% neutral and unbiased manner. Whatever terms are agreed upon prior to signing will mean that the contract will be executed in the future without the risk of fraud, manipulation or unauthorized modification.
+On blockchain, the goal of a smart contract is to simplify business and trade between both anonymous and identified parties, sometimes without the need for a middleman. A smart contract scales down on formality and costs associated with traditional methods, without compromising on authenticity and credibility.
+The open and transparent smart contract is deployed on the blockchain, and its contract content is naturally open and transparent.
+because of the legal vulnerability
+On blockchain, the goal of a smart contract is to simplify business and trade between both anonymous and identified parties, sometimes without the need for a middleman

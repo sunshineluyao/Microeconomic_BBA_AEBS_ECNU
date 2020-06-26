@@ -1,0 +1,32 @@
+In essence, it is a Shared database, in which the data or information stored is characterized by "non-forgery", "trace", "traceability", "openness and transparency" and "collective maintenance".
+A shared database where information and data are kept safely and transparent
+a digital database containing information (such as records of financial transactions) that can be simultaneously used and shared within a large decentralized, publicly accessible network
+A shared base stored the data and deal information
+A tool to structure and verify data, making online transaction extremely safe
+It is a scenario and potencial future environment in which cryptocurrency remplaces current monetary systems.
+it is an important concept of Bitcoin and is a shared database.
+A blockchain, originally block chain, is a growing list of records, called blocks, that are linked using cryptography.
+Block chain is an important term about Bitcoin. It uses block chain data structure to verify and store data. The distributed node consensus algorithm is used to generate and update data
+Blockchain is a shared, immutable ledger for recording transactions, tracking assets and building trust.
+Digital pieces of information usually related to the transactions of cryptocurrency such as the transaction date, time and sum. It also stores information of the parties involved in the transaction and is usually in the form of digital footprint.
+a spreadsheet that contains information about all the transactions (the senders, the receivers, etc) and each bloackchain has its own unique code(hash)
+Blockchain is digital account book for cryptocurrency (Bitcoin)
+a decentralized, distributed ledger technology that records the provenance of a digital asset
+Something like system that record informations of transaction. (But i'm not sure)
+Simply just a record of transactions made in bitcoin linked to many different computers.
+Blockchain is a concatenated text record that uses cryptography to concatenate, save and protect content of information.
+Blockchain is a chain of blocks which contains information, like some data, hash of the block and hash of previous work. Blockchain is also a distributed ledger that is completely open to anyone. Once the information has been recorded inside the blockchain, it becomes very difficult to change.
+A chain of block that contains information
+A system that records transactions in bitcoin or other cryotocurrency
+in essence it's a shared database which is unforgeable and complete transparent
+a kind of chained data structure that combines data blocks in a chronological order and connects them sequentially, which is guaranteed by cryptography to be untampered and unfalsifiable
+It¡¯s a system of recording information and make it impossible to change
+Blockchain is a new application mode of distributed data storage, point-to-point transmission, consensus mechanism, encryption algorithm and other computer technologies.
+At its most basic level, blockchain is literally just a chain of blocks, but not in the traditional sense of those words.
+A blockchain is a public distributed ledger, in which all who choose to participate in it have autonomy to access it
+a transparent shared database
+a system in which a record of transactions made in bitcoin or another cryptocurrency are maintained across several computers that are linked in a peer to peer network
+It is kind of a shared database.
+a scenario and potential future environment.
+A block Shaun is a system that make the information don¡¯t change
+from my understanding, blockchain is a chain of blocks which store a set of data and if the data has been replaced, its hash will change too.
