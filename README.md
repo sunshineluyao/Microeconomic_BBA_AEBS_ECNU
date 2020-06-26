@@ -1,6 +1,6 @@
 # Microeconomic_BBA_AEBS_ECNU
 
-This course is talked by [Dr. Luyao Zhang](https://www.linkedin.com/in/sunshineluyao/) at Asia Europe Business School during Spring 2020 and I ([Ruizhi Hou](https://www.linkedin.com/in/ruizhi-hou-50a0861a0/) is the Gradudate Teaching Assistant. I have assisted Dr. Luyao Zhang in designing and implementing the course surveys. 
+This course is talked by [Dr. Luyao Zhang](https://www.linkedin.com/in/sunshineluyao/) at Asia Europe Business School during Spring 2020 and I ([Ruizhi Hou](https://www.linkedin.com/in/ruizhi-hou-50a0861a0/)) is the Gradudate Teaching Assistant. I have assisted Dr. Luyao Zhang in designing and implementing the course surveys. 
 
 The purpose of these pre-course questionaires is to understand the capabilities of students, such as team work, basic knowledge and leadership, and to provide the best course experience for students; The after-course questionaires evaluate student achievements when compared with pre-course survey results. 
 
