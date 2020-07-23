@@ -44,7 +44,7 @@ In this course, we will study the basics of Crypto Economics. Topics including C
 
 ### **Guest Lecturer**: 
 
-Dr. Yulin Liu leads research on crypto-economics and on-chain governance systems as Senior Economist at DFINITY Foundation, aligned with his research interest in macroeconomics, monetary economics, financial stability, blockchain, and crypto-economics.
+[Dr. Yulin Liu](https://www.linkedin.com/in/yulineth/) leads research on crypto-economics and on-chain governance systems as Senior Economist at DFINITY Foundation, aligned with his research interest in macroeconomics, monetary economics, financial stability, blockchain, and crypto-economics.
 
 Currently, he also serves as an affiliated economics professor at Huazhong University of Science and Technology. He has taught Master, MBA, and Ph.D. level courses at ETH Zurich and was a visiting scholar at the European Central Bank. Since 2015, he has been constantly invited to give talks in major central banks and conferences.
 
