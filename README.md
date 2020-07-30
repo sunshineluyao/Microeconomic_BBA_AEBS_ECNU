@@ -50,6 +50,29 @@ Currently, he also serves as an affiliated economics professor at Huazhong Unive
 
 He received B.S. in Physics awarded jointly by Université Claude Bernard Lyon 1 and Wuhan University in 2010, M.S. in Quantum Computation from ETH Zurich in 2012, and Ph.D. in Economics from ETH Zurich in 2016. :+1:
 
+### **Final Deliverables**:
+#### Crypto Economics AEBS June 2020 Lecture
+Watch the lecture on [YouTube](https://www.youtube.com/playlist?list=PLbEY3-qwC0GHB3Vmi5Og9mL1S6GqR2HtE) or [Bilibili](https://www.bilibili.com/video/av541022495).
+
+#### Crypto Economics AEBS 2020 Final Project
+Watch the student presentation video on [YouTube](https://www.youtube.com/playlist?list=PLbEY3-qwC0GG-h7vmuFhixCYNKYGXf7JE) or [Bilibili] (https://www.bilibili.com/video/BV1hA411i7mJ).
+
+Check out the student presentation slides on Linkedin Slideshare
+[Decentralized margin trading: DDEX](https://www.slideshare.net/LuyaoZhangPhD/decentralized-margin-tradingddex-presented-by-wolfpack)
+[Decentralized Exchange: Banco](https://www.slideshare.net/LuyaoZhangPhD/decentralized-exchangebanco-presented-by-pentagon)
+[Decentralized Bank: AAVE](https://www.slideshare.net/LuyaoZhangPhD/decentralized-bankaave-presented-by-outliers)
+[Ethereum Token Standards: SERC20](https://www.slideshare.net/LuyaoZhangPhD/ethereum-token-standardserc20-presented-by-little-question-mark)
+[Decentralized Derivatives: Synthetix](https://www.slideshare.net/LuyaoZhangPhD/decentralized-derivativessynthetix-presented-by-gmt767)
+[Hacking event: flashload attach](https://www.slideshare.net/LuyaoZhangPhD/hacking-events-flashloan-attack-presented-by-epiphany)
+[Decentralized insurance: Nexus mutual](https://www.slideshare.net/LuyaoZhangPhD/decentralized-insurance-nexus-mutual-presented-by-duet)
+[CBDC: China](https://www.slideshare.net/LuyaoZhangPhD/cbdc-china-dcep-presented-by-datmez)
+[Decentralized Identity: CIVIC](https://www.slideshare.net/LuyaoZhangPhD/decentralized-identitycivic-presented-by-always-on)
+[Stable Coin: Liquity](https://www.slideshare.net/LuyaoZhangPhD/stable-coinliquidity-presented-by-404-not-found)
+
+Watch the Student Debating Video on [YouTuBe](https://www.youtube.com/playlist?list=PLbEY3-qwC0GEAmGZ6aveC8mpJSiv0rLHB) or [Bilibili](https://www.bilibili.com/video/BV1ak4y1z79J/).
+
+Watch the student Peer Evaluation Video on [YouTube](https://www.youtube.com/playlist?list=PLbEY3-qwC0GEtXtX95E0kyVSHmwGPgjK9) or [Bilibili](https://www.bilibili.com/video/BV1QC4y1a7q5?p=1)
+
 
 ## **Guest Lecture 2: Mini-Course in Behavioral and Experimental Economics**
 ### **COURSE DESCRIPTION**
@@ -76,5 +99,8 @@ In this course, we learn:
 ### **Guest Lecturer**: 
 
 Bin Dong is a Ph.D. candidate at Maastricht University. His research field focuses on Sustainability, Behavioral Finance, and Experimental Economics. Dong has worked in the Business Intelligence (BI) field for over 10 years. Dong is a certified BI expert by SAP Global. Dong holds Fund, Future, and Investment certificates. Dong speaks Japanese and Chinese natively, and English fluently. The [behavior economics survey](./behavior_economics_survey) is implemented by Dr. Dong on Quatrics. :+1:
+
+### **Final Deliverables**
+Watch Instruction Video for Experiment Implemention in oTree on [YouTuBe](https://www.bilibili.com/video/BV1QC4y1a7q5?p=1) or [Bilibili](https://www.bilibili.com/video/BV1Nk4y1z7Yb/).
 
 
