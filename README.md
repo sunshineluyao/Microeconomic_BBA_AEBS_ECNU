@@ -51,10 +51,10 @@ Currently, he also serves as an affiliated economics professor at Huazhong Unive
 He received B.S. in Physics awarded jointly by Université Claude Bernard Lyon 1 and Wuhan University in 2010, M.S. in Quantum Computation from ETH Zurich in 2012, and Ph.D. in Economics from ETH Zurich in 2016. :+1:
 
 ### **Final Deliverables**:
-Crypto Economics AEBS June 2020 Lecture
+##### Crypto Economics AEBS June 2020 Lecture
 Watch the lecture on [YouTube](https://www.youtube.com/playlist?list=PLbEY3-qwC0GHB3Vmi5Og9mL1S6GqR2HtE) or [Bilibili](https://www.bilibili.com/video/av541022495).
 
-Crypto Economics AEBS 2020 Final Project
+##### Crypto Economics AEBS 2020 Final Project
 Watch the student presentation video on [YouTube](https://www.youtube.com/playlist?list=PLbEY3-qwC0GG-h7vmuFhixCYNKYGXf7JE) or [Bilibili](https://www.bilibili.com/video/BV1hA411i7mJ).
 
 ##### Check out the student presentation slides on Linkedin Slideshare
