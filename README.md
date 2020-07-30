@@ -55,9 +55,9 @@ He received B.S. in Physics awarded jointly by Université Claude Bernard Lyon 1
 Watch the lecture on [YouTube](https://www.youtube.com/playlist?list=PLbEY3-qwC0GHB3Vmi5Og9mL1S6GqR2HtE) or [Bilibili](https://www.bilibili.com/video/av541022495).
 
 #### Crypto Economics AEBS 2020 Final Project
-Watch the student presentation video on [YouTube](https://www.youtube.com/playlist?list=PLbEY3-qwC0GG-h7vmuFhixCYNKYGXf7JE) or [Bilibili] (https://www.bilibili.com/video/BV1hA411i7mJ).
+##### Watch the student presentation video on [YouTube](https://www.youtube.com/playlist?list=PLbEY3-qwC0GG-h7vmuFhixCYNKYGXf7JE) or [Bilibili](https://www.bilibili.com/video/BV1hA411i7mJ).
 
-Check out the student presentation slides on Linkedin Slideshare
+##### Check out the student presentation slides on Linkedin Slideshare
 [Decentralized margin trading: DDEX](https://www.slideshare.net/LuyaoZhangPhD/decentralized-margin-tradingddex-presented-by-wolfpack)
 [Decentralized Exchange: Banco](https://www.slideshare.net/LuyaoZhangPhD/decentralized-exchangebanco-presented-by-pentagon)
 [Decentralized Bank: AAVE](https://www.slideshare.net/LuyaoZhangPhD/decentralized-bankaave-presented-by-outliers)
@@ -69,9 +69,9 @@ Check out the student presentation slides on Linkedin Slideshare
 [Decentralized Identity: CIVIC](https://www.slideshare.net/LuyaoZhangPhD/decentralized-identitycivic-presented-by-always-on)
 [Stable Coin: Liquity](https://www.slideshare.net/LuyaoZhangPhD/stable-coinliquidity-presented-by-404-not-found)
 
-Watch the Student Debating Video on [YouTuBe](https://www.youtube.com/playlist?list=PLbEY3-qwC0GEAmGZ6aveC8mpJSiv0rLHB) or [Bilibili](https://www.bilibili.com/video/BV1ak4y1z79J/).
+##### Watch the Student Debating Video on [YouTuBe](https://www.youtube.com/playlist?list=PLbEY3-qwC0GEAmGZ6aveC8mpJSiv0rLHB) or [Bilibili](https://www.bilibili.com/video/BV1ak4y1z79J/).
 
-Watch the student Peer Evaluation Video on [YouTube](https://www.youtube.com/playlist?list=PLbEY3-qwC0GEtXtX95E0kyVSHmwGPgjK9) or [Bilibili](https://www.bilibili.com/video/BV1QC4y1a7q5?p=1)
+##### Watch the student Peer Evaluation Video on [YouTube](https://www.youtube.com/playlist?list=PLbEY3-qwC0GEtXtX95E0kyVSHmwGPgjK9) or [Bilibili](https://www.bilibili.com/video/BV1QC4y1a7q5?p=1)
 
 
 ## **Guest Lecture 2: Mini-Course in Behavioral and Experimental Economics**
