@@ -110,6 +110,6 @@ In this course, we learn:
 Bin Dong is a Ph.D. candidate at Maastricht University. His research field focuses on Sustainability, Behavioral Finance, and Experimental Economics. Dong has worked in the Business Intelligence (BI) field for over 10 years. Dong is a certified BI expert by SAP Global. Dong holds Fund, Future, and Investment certificates. Dong speaks Japanese and Chinese natively, and English fluently. The [behavior economics survey](./behavior_economics_survey) is implemented by Dr. Dong on Quatrics. :+1:
 
 ### **Final Deliverables**
-Watch Instruction Video for Experiment Implemention in oTree on [YouTuBe](https://www.bilibili.com/video/BV1QC4y1a7q5?p=1) or [Bilibili](https://www.bilibili.com/video/BV1Nk4y1z7Yb/).
+Watch Instruction Video for Experiment Implemention in oTree on [YouTuBe](https://www.youtube.com/playlist?list=PLbEY3-qwC0GFH-aREY2Ub1OxNt_DBnLZY) or [Bilibili](https://www.bilibili.com/video/BV1Nk4y1z7Yb/).
 
 
